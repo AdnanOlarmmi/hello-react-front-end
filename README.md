@@ -53,7 +53,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- Getting random greeting messages from: [Hello Rails Back End](https://github.com/karayamanemre/hello-rails-back-end).
+- Getting random greeting messages from: [Hello Rails Back End](https://github.com/adnanolarmmi/hello-rails-back-end).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
