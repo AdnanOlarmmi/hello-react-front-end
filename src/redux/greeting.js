@@ -25,9 +25,7 @@ const greetingSlice = createSlice({
   reducers: {},
 
   extraReducers: (builder) => {
-
     builder.addCase(fetchGreeting.fulfilled, (state, action) => action.payload);
-
   },
 
 });
